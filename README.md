@@ -40,6 +40,8 @@ User-Favourites: Kullanıcının favori tweet sayısı.
 Her tweet, anonimleştirilmiş bir şekilde kullanıcı tarafından yayınlanmış gerçek içeriği yansıtmaktadır. 
 
 
+# Supported By
 
-
+This work was supported in part by the Scientific and Technological Research Council of Turkey (TÜBİTAK) with grant number [120E187].
+According to the data sharing rules of TÜBİTAK, the data and system created in this project can remain confidential if requested by the project team, for a period of 2 years, starting in June 2023 and ending in June 2025.
 
