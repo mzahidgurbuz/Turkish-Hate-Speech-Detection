@@ -40,6 +40,11 @@ User-Favourites: Kullanıcının favori tweet sayısı.
 Her tweet, anonimleştirilmiş bir şekilde kullanıcı tarafından yayınlanmış gerçek içeriği yansıtmaktadır. 
 
 
+# Cite 
+
+https://doi.org/10.1109/ACCESS.2024.3415350
+
+
 # Supported By
 
 This work was supported in part by the Scientific and Technological Research Council of Turkey (TÜBİTAK) with grant number [120E187].
