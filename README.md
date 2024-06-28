@@ -39,10 +39,17 @@ User-Favourites: Kullanıcının favori tweet sayısı.
 
 Her tweet, anonimleştirilmiş bir şekilde kullanıcı tarafından yayınlanmış gerçek içeriği yansıtmaktadır. 
 
+# Complete Dataset
+The first 300 rows of datasets are published. To download full datasets, please contact our corresponding author.
+Corresponding author: Ayse Berna Altinel (berna.altinel æ₺ marmara.edu.tr)
 
 # Cite 
 
+https://ieeexplore.ieee.org/document/10559617
+
 https://doi.org/10.1109/ACCESS.2024.3415350
+
+A. B. Altinel, G. K. Baydogmus, S. Sahin and M. Z. Gurbuz, "So-haTRed: A Novel Hybrid System for Turkish Hate Speech Detection in Social Media With Ensemble Deep Learning Improved by BERT and Clustered-Graph Networks," in IEEE Access, vol. 12, pp. 86252-86270, 2024, doi: 10.1109/ACCESS.2024.3415350.
 
 
 # Supported By
